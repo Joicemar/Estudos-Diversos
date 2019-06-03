@@ -1,0 +1,6 @@
+Escrevendo no arquivo.
+ linha um
+Escrevendo no arquivo.
+ linha dois
+Escrevendo no arquivo.
+ linha três
